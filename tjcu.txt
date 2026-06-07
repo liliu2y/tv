@@ -138,6 +138,10 @@ CCTV4K,http://192.168.18.6:6636/udp/225.1.2.245:5002
 四川卫视4K,http://192.168.18.6:6636/udp/225.1.2.111:5002
 湖南卫视4K,http://192.168.18.6:6636/udp/225.1.2.110:5002
 港台节目,#genre#
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -156,12 +160,8 @@ ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
 ViuTVsix,http://r.jdshipin.com/vFgDS
 Now新闻台,http://r.jdshipin.com/OeHMu
-HOY TV,http://r.jdshipin.com/sFw4S
+HOYTV,http://r.jdshipin.com/sFw4S
 HOY资讯台,http://r.jdshipin.com/XIjta
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视卫星,http://r.jdshipin.com/QFhCq
 澳门莲花,http://r.jdshipin.com/5DWJk
