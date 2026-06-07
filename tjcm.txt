@@ -126,6 +126,7 @@ CGTN纪录,rtp://225.2.1.55:5000
 足球,rtp://225.2.1.105:5000
 财富天下,rtp://225.2.1.137:5000
 新动漫,rtp://225.2.1.216:5000
+重温经典,http://r.jdshipin.com/B7sfp
 高清测试,#genre#
 CCTV4K,rtp://239.0.2.245:5000
 北京卫视4K,rtp://239.0.2.246:5000
@@ -161,3 +162,31 @@ CCTV4K,rtp://239.0.2.245:5000
 咪视界,rtp://239.0.2.227:5000
 咪视界,rtp://239.0.2.228:5000
 咪视界,rtp://239.0.2.229:5000
+港台节目,#genre#
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/GeWKr
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://r.jdshipin.com/jUx8K
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,http://r.jdshipin.com/ndGgS
+无线新闻,http://r.jdshipin.com/CkuBd
+TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,http://r.jdshipin.com/Voac4
+华丽翡翠台,http://r.jdshipin.com/thuYX
+华丽翡翠台,http://r.jdshipin.com/krMB5
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://r.jdshipin.com/TcKr2
+ViuTVsix,http://r.jdshipin.com/vFgDS
+Now新闻台,http://r.jdshipin.com/OeHMu
+HOY TV,http://r.jdshipin.com/sFw4S
+HOY资讯台,http://r.jdshipin.com/XIjta
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳视卫星,http://r.jdshipin.com/QFhCq
+澳门莲花,http://r.jdshipin.com/5DWJk
