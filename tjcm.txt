@@ -107,7 +107,6 @@ CCTV5,http://192.168.1.6:38766/cctv5.m3u8
 梨园频道,rtp://239.0.2.104:5000
 汽摩,rtp://225.2.1.205:5000
 生活时尚,rtp://225.2.1.143:5000
-生态环境,rtp://239.0.2.201:5000
 书画,rtp://239.0.2.22:5000
 四海钓鱼,rtp://239.0.2.117:5000
 文物宝库,rtp://239.0.2.105:5000
@@ -167,31 +166,3 @@ CCTV4K,rtp://239.0.2.245:5000
 咪视界,rtp://239.0.2.227:5000
 咪视界,rtp://239.0.2.228:5000
 咪视界,rtp://239.0.2.229:5000
-香港频道,#genre#
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/GeWKr
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://r.jdshipin.com/jUx8K
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB Plus,http://r.jdshipin.com/ndGgS
-无线新闻,http://r.jdshipin.com/CkuBd
-TVB星河,http://r.jdshipin.com/sXuuD
-TVB星河,http://r.jdshipin.com/Voac4
-华丽翡翠台,http://r.jdshipin.com/thuYX
-华丽翡翠台,http://r.jdshipin.com/krMB5
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://r.jdshipin.com/TcKr2
-ViuTVsix,http://r.jdshipin.com/vFgDS
-Now新闻台,http://r.jdshipin.com/OeHMu
-HOYTV,http://r.jdshipin.com/sFw4S
-HOY资讯台,http://r.jdshipin.com/XIjta
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
-澳门莲花,http://r.jdshipin.com/5DWJk
