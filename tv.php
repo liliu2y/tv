@@ -96,10 +96,10 @@ function getDownloadUrl($ipInfo) {
             case strpos($isp, '电信') !== false:
                 return 'https://gh.dpik.top/https://github.com/liliu2y/tv/blob/main/tjct.txt';
             default:
-                return 'https://gh.dpik.top/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt';
+                return 'https://gh.dpik.top/https://github.com/liliu2y/tv/blob/main/iptv.txt';
         }
     } else {
-        return 'https://gh.dpik.top/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt';
+        return 'https://gh.dpik.top/https://github.com/liliu2y/tv/blob/main/iptv.txt';
     }
 }
 
